@@ -13,3 +13,9 @@ TXT).
 
 Objective : This chatbot will help users efficiently retrieve and understand information from multiple documents by
 leveraging natural language processing, embeddings, and conversational AI models for dynamic, context-aware responses.
+
+Interface of Application.
+
+I have used Siamese Neural Networks for One-shot Image Recognition paper as input pdf and asked application to give a summary.
+
+![Application Interface](https://github.com/Deepanshuharsh2209/Q-A-Chatbot/blob/main/app_ss.png)
